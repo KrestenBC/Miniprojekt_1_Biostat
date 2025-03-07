@@ -1,0 +1,48 @@
+---
+title: "TITLE"
+subtitle: "SUBTITLE"
+author: "ME"
+date: today
+format: 
+  html:
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+    number-sections: true
+    number-depth: 2
+    code-fold: true
+    code-summary: "Show the code"
+    code-tools: true
+execute:
+  message: false
+  warning: false
+---
+
+
+```{r}
+library(tidyverse) #import tidy, transform plot
+library(here) #diretory
+
+#load and clean data
+source(here("scripts", "01_import.r"))
+
+soldiers_leave <- read.csv(here("raw_data", "soldiers_leave.csv"))
+
+soldiers_leave
+
+
+
+```
+
+soldiers leave skal have samme form som i soldiers:
+
+vi skal filtrere de installationer der har fået lov at komme hjem fra soldiers
+
+vi skal have samme form på de to dataset 
+
+combiner de to dataset
+
+Analyser på dataen
+
+transformer fra wide til long format er en god idé for at lave statistisk analyse
+

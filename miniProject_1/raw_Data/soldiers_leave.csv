@@ -1,0 +1,580 @@
+subjectid,sex,Installation,heightcm_T1,weight_T1,weight_T2,weight_T3
+1017,Male,Fort Hood,180.2,81.5 kg,81.5,81.3
+4775,Male,Fort Hood,172.7,72.3,72.4,72.4
+2177,Male,Fort Hood,172.6,92.5,92.2,92.2
+5026,Female,Fort Hood,155.1,66.1,66.2,66.4
+1533,Female,Fort Hood,162.6,53.5,53.5,53.7
+4567,Female,Fort Hood,172.6,66.2,66.4,66.4
+2347,Female,Fort Hood,167.6,168.9 lb,76.6,76.5
+270,Female,Fort Hood,160.1,88,88,88.1
+4050,Female,Fort Hood,170.3,84.1,83.8,83.8
+5307,Female,Fort Hood,165.1,73,73.1,73.1
+3379,Female,Fort Hood,167.8,75.4,75,74.9
+4065,Female,Fort Hood,149.9,54.3,54.3,54.6
+597,Female,Fort Hood,159.9,68.2,68.3,68.4
+1301,Male,Fort Hood,167.4,79.1,79.4,79.5
+6070,Male,Fort Hood,195.7,94.8,95,95
+330,Female,Fort Hood,175.3,99.8 kg,100,99.9
+1799,Female,Fort Hood,167.6,74.7,74.3,74.3
+3913,Female,Fort Hood,165.2,NA,79,79
+5711,Female,Fort Hood,167.7,71.6,71.5,71.6
+1749,Male,Fort Hood,175.4,80.6,81.2,NA
+37,Male,Fort Hood,183,115.7,115.6,115.6
+1129,Female,Fort Hood,162.7,70.8,70.6,70.8
+729,Female,Fort Hood,167.6,68.3,68.4,NA
+878,Female,Fort Hood,164.9,62,62,62
+485,Female,Fort Hood,170.3,59.3,59.6,59.6
+5922,Female,Fort Hood,167.6,73.8,73.7,73.7
+4012,Female,Fort Hood,162.6,60.9,60.7,60.6
+5071,Female,Fort Hood,152.3,81.1 kg,81.2,NA
+2849,Female,Fort Hood,167.6,74.9,74.9,74.9
+2900,Female,Fort Hood,162.6,49,49.2,49.1
+2378,Female,Fort Hood,167.7,71.3 kg,71.5,71.5
+4650,Female,Fort Hood,165.1,71.1,71.1,71
+1446,Female,Fort Hood,160,71.4,NA,71.4
+2159,Female,Fort Hood,142.2,48.6,48.7,NA
+3476,Male,Fort Hood,187.9,94.9,94.7,94.7
+1948,Male,Fort Hood,177.8,100.1,100,100
+2580,Male,Fort Hood,182.9,69.3 kg,69.4,69.4
+1530,Male,Fort Hood,177.8,88,88.4,88.3
+4439,Male,Fort Hood,175.4,70.1,70.3,70.3
+4136,Male,Fort Hood,183,228.2 lb,103.6,103.5
+4633,Male,Fort Hood,190.5,110.8,111,111.2
+4344,Male,Fort Hood,172.7,89.3,89.4,89.6
+1222,Male,Fort Hood,175.4,91.6,91.5,91.5
+2426,Male,Fort Hood,170.3,78.9,79.1,79
+2087,Male,Fort Hood,177.7,96 kg,95.8,95.8
+2483,Male,Fort Hood,177.7,74.9,74.8,74.8
+2858,Male,Fort Hood,177.8,200.8 lb,91.2,91.2
+5510,Male,Fort Hood,180.4,71.9 kg,72.2,72.3
+5400,Male,Fort Hood,167.6,74.5,74.4,74.3
+1696,Male,Fort Hood,167.7,79.1,79.3,79.2
+526,Male,Fort Hood,200.7,91.9,91.8,91.9
+1069,Male,Fort Hood,177.7,97.2,97.3,97.3
+5522,Male,Fort Hood,162.6,66.7,66.4,66.3
+22,Male,Fort Hood,185.3,108,107.7,107.7
+5838,Male,Fort Hood,180.4,79.4,79.8,79.7
+5862,Male,Fort Hood,175.5,78,78,77.9
+5491,Male,Fort Hood,185.4,88.8 kg,88.8,88.9
+1128,Male,Fort Hood,190.4,72,71.5,71.5
+983,Male,Fort Hood,180.4,95.3,NA,95.8
+1791,Male,Fort Hood,165.1,66.4,66.3,66.4
+5612,Male,Fort Hood,188.2,88.3,88.4,88.5
+3910,Male,Fort Hood,180.3,67.6,67.7,67.8
+5736,Male,Fort Hood,180.4,88.1,88.2,88.2
+1639,Male,Fort Hood,172.7,70.4,70.3,70.3
+4939,Male,Fort Hood,187.9,121.9,122.3,122.4
+465,Male,Fort Hood,172.7,71.9,71.9,71.9
+5092,Male,Fort Hood,175.1,88.4,88.3,88.3
+5645,Male,Fort Hood,177.9,57.7 kg,58,58.1
+1200,Male,Fort Hood,170.2,87.2,87.2,87.2
+3863,Male,Fort Hood,185.6,85,84.7,84.8
+1134,Male,Fort Hood,172.7,87.8,87.4,87.5
+84,Male,Fort Hood,177.7,95.8,95.7,95.9
+1895,Male,Fort Hood,167.7,66.6,66.4,66.4
+3101,Male,Fort Hood,175.2,71,70.9,70.9
+5261,Male,Fort Hood,175.2,84.9,84.9,85.1
+2300,Male,Fort Hood,190.5,222.7 lb,101.5,NA
+3990,Male,Fort Hood,167.6,85.1,85.2,85.1
+6173,Male,Fort Hood,180.3,109.9,109.9,109.9
+1328,Male,Fort Hood,185.4,184.1 lb,83.7,83.7
+557,Male,Fort Hood,165,72.9,72.9,72.8
+5781,Male,Fort Hood,177.7,98.5,98.6,98.4
+287,Male,Fort Hood,170.2,76.5,76.7,76.8
+3217,Male,Fort Hood,183,140,140,139.9
+3702,Male,Fort Hood,180.1,68.6,68.2,68.3
+1522,Male,Fort Hood,177.9,87.7,87.6,87.4
+858,Male,Fort Hood,172.7,98.3,98.7,98.5
+5936,Male,Fort Hood,190.6,94.5 kg,94.5,94.4
+4672,Male,Fort Hood,162.6,56.4,56.6,56.7
+990,Male,Fort Hood,175.3,72.4,72.5,72.6
+3175,Male,Fort Hood,185.4,71.6,71.6,71.7
+316,Male,Fort Hood,172.6,80.1,79.5,79.4
+5171,Male,Fort Hood,175.4,98.2,98.3,98.4
+733,Male,Fort Hood,170.3,66.2,66.1,66.1
+5410,Male,Fort Hood,167.7,81.2,81.1,81.2
+4907,Male,Fort Hood,188.2,106.4,106.3,106.2
+5051,Male,Fort Hood,177.9,69,69.3,69.2
+2330,Male,Fort Hood,162.5,74.5,74.2,74.4
+1167,Male,Fort Hood,175.2,73.5,73,73
+3514,Male,Fort Hood,172.6,60.7,60.8,60.9
+3992,Male,Fort Hood,162.6,77.4,77.5,NA
+1706,Male,Fort Hood,175.2,76.9,76.9,76.9
+501,Male,Fort Hood,185.4,101.5,101.5,101.3
+3788,Male,Fort Hood,175.2,96.1,96.4,96.5
+536,Male,Fort Hood,167.6,91.8 kg,91.4,91.6
+5084,Male,Fort Hood,175.2,98.3,98.1,98.3
+3286,Male,Fort Hood,185.6,88.3,88.5,88.5
+3747,Male,Fort Hood,183,98.5,98.6,98.7
+5163,Male,Fort Hood,180.4,85.2,85.5,85.6
+5121,Male,Fort Hood,177.8,75.1 kg,NA,75
+29,Male,Fort Hood,183.1,91.7,91.4,91.5
+3662,Male,Fort Hood,180.2,74,74.2,74.2
+1942,Male,Fort Hood,172.7,83.1,83.5,83.3
+4934,Male,Fort Hood,157.6,63.2,63.2,63.3
+1820,Male,Fort Hood,172.6,78.1 kg,78.5,78.6
+5748,Male,Fort Hood,182.9,89,89.4,89.5
+2281,Male,Fort Hood,177.8,58.5 kg,58.6,58.4
+1317,Male,Fort Hood,170.2,74,74.1,74
+4669,Male,Fort Hood,172.7,87,86.8,86.7
+1966,Male,Fort Hood,172.7,86.8,87.2,87.4
+369,Male,Fort Hood,182.9,74,74.1,74
+2499,Male,Fort Hood,185.3,65.4 kg,65.4,65.3
+4182,Male,Fort Hood,190.6,69.5,69.4,69.6
+5603,Male,Fort Hood,182.9,76.7,76.2,76.2
+5742,Male,Fort Hood,167.6,73.1,73,73
+355,Male,Fort Hood,170.2,NA,80.6,80.5
+5939,Male,Fort Hood,188.1,75.4,NA,75.5
+1073,Male,Fort Hood,180.3,96.9,97.2,97.3
+361,Male,Fort Hood,182.9,86.5,86.7,86.6
+1340,Male,Fort Hood,175.2,74.3,73.9,73.9
+1266,Male,Fort Hood,180.3,92.6,92.6,92.7
+1841,Male,Fort Hood,182.9,82.1,81.9,82
+2866,Male,Fort Hood,185.3,NA,64.5,64.4
+4343,Male,Fort Hood,190.6,96,95.7,95.5
+751,Male,Fort Hood,175.1,85.3,85,85
+219,Male,Fort Hood,175.3,90.2 kg,90,90.1
+135,Male,Fort Hood,185.2,84.1,84.4,84.4
+4207,Male,Fort Hood,170.2,86.9,86.6,86.4
+532,Male,Fort Hood,185.3,89.7,89.7,89.7
+4504,Male,Fort Hood,182.8,86.9,86.9,86.8
+3123,Male,Fort Hood,170.2,82.4 kg,82.4,82.3
+5685,Male,Fort Hood,185.2,NA,111,111.1
+912,Male,Fort Hood,180.4,218.3 lb,98.9,98.8
+3428,Male,Fort Hood,185.2,110.7,110.6,110.6
+2178,Male,Fort Hood,170.2,78.9,NA,79.1
+6122,Male,Fort Hood,177.7,86.4,86.7,86.6
+5932,Male,Fort Hood,187.9,NA,140.8,140.9
+4455,Male,Fort Hood,167.8,175.7 lb,79.6,79.5
+2153,Male,Fort Hood,165.1,69.1,NA,69.4
+1148,Male,Fort Hood,175.2,78.7,78.5,78.4
+1101,Male,Fort Hood,172.5,69.4 kg,69.4,69.5
+1242,Male,Fort Hood,190.5,120.9,121,120.8
+3682,Male,Fort Hood,190.5,88.1,88.2,88.3
+1218,Male,Fort Hood,177.8,70.3 kg,70.3,70.2
+4115,Male,Fort Hood,180.2,82.9 kg,83.3,83.4
+273,Male,Fort Hood,185.3,99.3 kg,99.1,99
+418,Male,Fort Hood,182.8,76.1,75.9,76
+5663,Male,Fort Hood,175.4,NA,NA,99.2
+867,Male,Fort Hood,167.5,75.8,75.9,NA
+4782,Male,Fort Hood,182.8,89.7 kg,89.6,89.7
+4499,Male,Fort Hood,175.5,78.8,78.6,78.7
+3821,Male,Fort Hood,175.3,82.4,82.5,82.6
+1611,Male,Fort Hood,182.9,100.1,100.2,100.1
+5136,Male,Fort Hood,170.3,74,73.8,73.7
+5160,Male,Fort Hood,188.1,97.2,97.1,97.1
+5897,Male,Fort Hood,182.8,91.6,91.7,91.5
+818,Male,Fort Hood,180.5,107.3,107.4,107.4
+2652,Male,Fort Hood,175.3,79 kg,78.7,78.7
+4730,Male,Fort Hood,180.2,94.6,95,94.9
+664,Male,Fort Hood,177.8,91.2,90.9,90.8
+3210,Male,Fort Hood,190.5,106.5,106.5,106.6
+719,Male,Fort Hood,167.8,86.5,86.7,86.7
+500,Male,Fort Hood,180.3,87.5 kg,87.5,87.7
+3045,Male,Fort Hood,190.5,115.1,115.4,115.4
+2809,Male,Fort Hood,172.7,78.6,79.1,79.1
+423,Male,Fort Hood,180.3,88.6,88.8,88.9
+421,Male,Fort Hood,188,86.3 kg,86.5,86.6
+989,Male,Fort Hood,193.1,80.4,80.2,80.3
+4236,Male,Fort Hood,183.1,96.8,97.1,97.1
+4222,Male,Fort Hood,183,109.3 kg,109.3,109.4
+3598,Male,Fort Hood,183,77.5,77.6,77.7
+3580,Male,Fort Hood,175.2,95.1 kg,95.1,95.2
+5094,Male,Fort Hood,193.1,111.8,111.7,111.9
+3700,Male,Fort Hood,182.9,88.5 kg,88.9,88.9
+6046,Male,Fort Hood,177.7,105.8,106.3,106.2
+2319,Male,Fort Hood,177.9,94.8 kg,94.7,94.7
+1154,Male,Fort Hood,167.6,72.5,72.4,72.3
+2625,Male,Fort Hood,180.4,87.9 kg,87.9,87.9
+5632,Male,Fort Hood,187.9,98.4,NA,98
+3523,Male,Fort Hood,175.3,96.8,97,96.9
+504,Male,Fort Hood,185.3,95.4,95.5,95.6
+5577,Male,Fort Hood,180.3,112.3,112.5,112.5
+4454,Male,Fort Hood,172.7,89.5,89.3,89.2
+785,Male,Fort Hood,172.6,94 kg,94.2,94.2
+3796,Male,Fort Hood,183,95.4,95.6,95.5
+3912,Male,Fort Hood,165,73.9,73.9,74
+1572,Male,Fort Hood,182.8,103.9,103.7,103.5
+4401,Male,Fort Hood,172.8,77.1,77,76.9
+1833,Male,Fort Hood,195.5,107.8,108.2,108.1
+2461,Male,Fort Hood,175.3,183.9 lb,83.6,83.7
+5077,Male,Fort Hood,180.3,96 kg,96.1,96.2
+2624,Male,Fort Hood,172.7,70.8,70.2,70.2
+4225,Male,Fort Hood,175.5,70.1,70.1,69.9
+309,Male,Fort Hood,185.6,84.6,84.7,84.8
+2922,Male,Fort Hood,170.2,85.8,85.6,85.5
+4078,Male,Fort Hood,182.7,96.5 kg,96.4,96.4
+441,Male,Fort Hood,180.5,81.8,NA,81.8
+2904,Male,Fort Hood,175.4,85.1,85.1,85
+3189,Male,Fort Hood,172.8,72,72.2,72.2
+4405,Male,Fort Hood,167.6,89,89,89.1
+470,Male,Fort Hood,175.4,74.8,74.8,74.8
+3686,Male,Fort Hood,190.5,73.1 kg,73.3,NA
+1360,Male,Fort Hood,172.7,69.9 kg,69.9,70
+1822,Male,Fort Hood,177.8,78.4,78.2,78.1
+1790,Male,Fort Hood,195.5,116.3,116.1,NA
+349,Male,Fort Hood,188.1,80.3,80.5,80.5
+3144,Male,Fort Hood,190.7,91.2,91.3,91.3
+894,Male,Fort Hood,172.7,68.2,68.4,68.6
+4686,Male,Fort Hood,165,85.9,86,86.1
+1956,Male,Fort Hood,188.1,85.8,86,85.9
+474,Male,Fort Hood,180.3,103.3,103.2,103.2
+6033,Male,Fort Hood,177.6,103.9,104.1,104
+5048,Male,Fort Hood,172.7,159.6 lb,72.2,72
+455,Male,Fort Hood,180.2,70.8 kg,70.9,70.9
+6026,Male,Fort Hood,172.7,NA,67.1,67.1
+3306,Male,Fort Hood,185.3,77.8,78,78.1
+3556,Male,Fort Hood,172.9,90.5 kg,NA,90.7
+3193,Male,Fort Hood,180.3,84.3,84.2,84.2
+5673,Male,Fort Hood,195.4,108.6 kg,108.6,108.6
+15,Male,Fort Hood,NA,75.5,75.5,75.6
+3366,Male,Fort Hood,177.8,NA,82.8,82.9
+4158,Male,Fort Hood,175.2,87.8,87.7,87.6
+4486,Male,Fort Hood,172.4,72.7,72.5,72.4
+1668,Male,Fort Hood,172.6,110.3,110.5,110.4
+1059,Male,Fort Hood,183,94.3,94.3,94.4
+4477,Male,Fort Hood,193,114.1,114.2,114.3
+6187,Male,Fort Hood,177.8,91.1,91.4,91.2
+5447,Male,Fort Hood,172.8,84.6 kg,84.9,85
+2597,Male,Fort Hood,175.2,81.9,82.2,82.1
+4096,Male,Fort Hood,175.4,190.5 lb,86.3,86.3
+2012,Male,Fort Hood,172.7,68.6,68.7,68.8
+5148,Male,Fort Hood,172.8,68 kg,68.4,68.3
+4084,Male,Fort Hood,177.9,95.1,94.8,94.9
+2110,Male,Fort Hood,157.5,48.2,NA,47.9
+1172,Male,Fort Hood,190.4,115.9,115.9,116
+797,Male,Fort Hood,177.9,72.8,72.6,72.7
+6162,Male,Fort Hood,182.7,107.4,107.9,107.9
+1596,Male,Fort Hood,167.5,53.7,54,53.8
+4072,Male,Fort Hood,162.6,84.9,84.4,84.4
+5057,Male,Fort Hood,175.3,192.5 lb,87,86.8
+4430,Male,Fort Hood,185.5,106.4 kg,106.5,106.5
+2079,Male,Fort Hood,175.3,78.2,78.3,78.3
+5388,Male,Fort Hood,182.9,109.3,109.7,109.7
+3372,Male,Fort Hood,175.3,NA kg,115.6,115.6
+2762,Male,Fort Hood,170.2,86.7 kg,87,87
+610,Male,Fort Hood,177.9,75.4,75,74.8
+3354,Male,Fort Hood,180.4,83.7,83.5,83.4
+1265,Male,Fort Hood,177.6,81,81.1,81
+3068,Male,Fort Hood,165.2,84.4 kg,84.3,84.4
+6087,Male,Fort Hood,175.3,94.1,94,94.1
+2265,Male,Fort Hood,167.6,64.9,64.7,64.6
+2840,Male,Fort Hood,183,113,112.9,112.7
+2156,Male,Fort Hood,175.3,91.3,91,91
+5390,Male,Fort Hood,162.6,72.3,72.2,72.1
+6075,Male,Fort Hood,221.1,97.3,97.4,97.5
+5458,Male,Fort Hood,183.1,82.2,82.1,82.1
+5729,Male,Fort Hood,175.3,76.5,76.7,76.8
+1760,Male,Fort Hood,188,177.3 lb,80.4,80.6
+5704,Male,Fort Hood,180.2,142.6 lb,64.8,64.7
+6068,Male,Fort Hood,180.3,107.4,107,106.7
+4664,Male,Fort Hood,167.5,192.9 lb,87.1,87
+5098,Male,Fort Hood,177.8,97.9,98,98
+4839,Male,Fort Hood,182.9,197.1 lb,89.8,89.8
+5831,Male,Fort Hood,187.9,239 lb,108.6,108.6
+4059,Male,Fort Hood,165.4,78,77.9,77.8
+4075,Male,Fort Hood,167.6,81.2,81.4,81.4
+3506,Male,Fort Hood,175.4,87.9,87.9,87.9
+2964,Male,Fort Hood,162.4,57.2,57.2,57.4
+5474,Male,Fort Hood,185.5,117.4,NA,117.8
+3421,Male,Fort Hood,177.7,87.4,NA,87.4
+3586,Male,Fort Hood,180.4,97,96.9,96.9
+4212,Male,Fort Hood,175.3,78.6,78.4,78.3
+2043,Male,Fort Hood,170.2,124.3 lb,56.3,56.3
+3070,Male,Fort Hood,170.3,53.4,53.1,53.1
+5353,Male,Fort Hood,167.5,91.7 kg,91.7,91.8
+5788,Male,Fort Hood,172.6,86.4,86.6,86.4
+1463,Male,Fort Hood,177.7,109.8,109.8,109.8
+1221,Male,Fort Hood,172.6,147.5 lb,66.9,66.7
+3292,Male,Fort Hood,175.4,71.2,71.3,71.4
+462,Male,Fort Hood,182.9,92.1,NA,92.5
+1957,Male,Fort Hood,183,85.7,85.9,86
+2283,Male,Fort Hood,167.6,70.2,70.4,70.4
+4049,Male,Fort Hood,177.8,245.6 lb,111.6,111.5
+1498,Male,Fort Hood,180.3,108.1,107.9,107.8
+2221,Male,Fort Hood,167.5,63.7,63.7,63.6
+3937,Male,Fort Hood,185.6,96.4,96.6,96.8
+5203,Male,Fort Hood,190.5,105.5,105.4,105.3
+5916,Male,Fort Hood,183,88.8,88.9,89
+4503,Male,Fort Hood,190.6,114.2,114.2,114.2
+2033,Male,Fort Hood,175.3,89.1,89.3,89.2
+731,Male,Fort Hood,177.8,69.5,NA,69.1
+4281,Male,Fort Hood,165.2,71.3,71.4,71.6
+2813,Male,Fort Hood,177.7,102.8,103.1,103.2
+5300,Male,Fort Hood,160.2,78.3,78.4,78.2
+3805,Male,Fort Hood,177.8,110.8 kg,111.1,111
+4589,Male,Fort Hood,175.5,82.2,82.1,82
+4771,Male,Fort Hood,172.9,86.7 kg,86.7,86.8
+3914,Male,Fort Hood,195.6,86.5,86.7,86.6
+966,Male,Fort Hood,177.9,78.4,78.4,78.4
+2492,Male,Fort Hood,185.3,109.4,109.7,109.7
+1191,Male,Fort Hood,182.9,97,97.4,97.3
+2017,Male,Fort Hood,167.7,67.3,67.2,67.2
+5591,Male,Fort Hood,172.7,102.1,101.8,101.9
+3774,Male,Fort Hood,177.8,59.3,59.6,59.6
+5793,Male,Fort Hood,167.5,67,67.1,67.3
+291,Male,Fort Hood,167.6,85.7,85.9,85.8
+3979,Female,Fort Hood,162.7,68.7,68.5,68.5
+4749,Female,Fort Hood,170.2,73.5,73.5,73.4
+247,Female,Fort Hood,162.6,60.7,60.9,60.9
+2482,Female,Fort Hood,159.9,66.7,66.6,66.4
+3388,Female,Fort Hood,167.6,70.8,70.9,70.9
+3418,Female,Fort Hood,175.4,72.3,71.9,72
+2984,Female,Fort Hood,167.7,84.5,84.7,84.6
+2722,Female,Fort Hood,167.7,207.7 lb,93.9,93.8
+2884,Male,Fort Hood,164.9,82.4 kg,82.1,82.1
+56,Male,Fort Hood,190.5,86.2,86.5,86.3
+934,Male,Fort Hood,167.6,82.1 kg,82.3,82.2
+3153,Male,Fort Hood,180.3,67.9,67.8,67.7
+4425,Male,Fort Hood,175.3,86.3,86.2,86.1
+4590,Male,Fort Hood,187.9,95.8,96,95.9
+5854,Male,Fort Hood,175.4,97.1,97.3,97.4
+5881,Male,Fort Hood,180.3,89.1,89.1,NA
+2966,Male,Fort Hood,175.1,101.8,101.7,101.7
+3552,Male,Fort Hood,170.2,76,75.9,75.9
+2152,Male,Fort Hood,172.8,71.3,71.4,71.2
+5123,Male,Fort Hood,180.3,88.2,88.2,88.1
+4257,Male,Fort Hood,162.7,46.4,46.2,46.3
+2432,Male,Fort Hood,167.7,76.3 kg,76.1,76.1
+127,Male,Fort Hood,182.9,99.6 kg,99.6,99.5
+4356,Male,Fort Hood,182.9,113.6 kg,113.6,113.7
+717,Male,Fort Hood,180.2,NA,84.7,84.8
+4156,Male,Fort Hood,180.4,110.8,110.7,110.7
+2496,Male,Fort Hood,198,89.7,89.8,89.7
+4277,Male,Fort Hood,180.3,92.8 kg,92.9,92.8
+5630,Male,Fort Hood,180.3,85.5,85.9,85.9
+5253,Male,Fort Hood,175.1,84.6,85.2,85.2
+5738,Male,Fort Hood,187.9,93.4,93.5,93.6
+1452,Male,Fort Hood,180.4,92.4,92.2,92.3
+3997,Male,Fort Hood,165.1,72.3,72.5,72.5
+4387,Male,Fort Hood,172.8,89,NA,88.7
+676,Male,Fort Hood,170.4,76,76.3,76.4
+1993,Male,Fort Hood,180.4,85.6 kg,85.5,85.4
+4707,Male,Fort Hood,175.4,98.3,98.4,98.4
+5795,Female,Fort Hood,165.1,61.8,62.2,62.2
+148,Female,Fort Hood,170.2,57.7,57.8,57.8
+4246,Female,Fort Hood,155.1,51.8,51.8,51.8
+121,Female,Fort Hood,162.7,73.3,73.4,73.4
+169,Female,Fort Hood,159.9,79.1,79.4,79.3
+598,Female,Fort Hood,165.1,89.3,89.1,89
+1491,Female,Fort Hood,170,68.8,68.9,68.9
+4204,Female,Fort Hood,165.1,76.3,76.5,76.6
+2815,Female,Fort Hood,162.3,73,72.9,73
+2578,Female,Fort Hood,160.1,75.7,75.8,75.7
+1580,Male,Fort Hood,182.8,73.4,73.4,73.3
+5543,Male,Fort Hood,180.3,68.2,68.2,68.2
+3869,Male,Fort Hood,175.3,68.8,69,69.1
+1115,Male,Fort Hood,175.4,72.9,72.9,72.8
+3616,Male,Fort Hood,180.4,NA,64.5,64.5
+3551,Male,Fort Hood,167.7,76.4,76.3,76.3
+4147,Male,Fort Hood,187.9,86 kg,85.9,85.7
+2167,Male,Fort Hood,182.8,80.8,80.3,80.4
+2513,Male,Fort Hood,172.7,79.9,79.7,79.6
+1783,Female,Fort Hood,167.6,81.6,81.9,NA
+436,Male,Fort Hood,175.2,77.4 kg,77.3,77.5
+2137,Male,Fort Hood,170.2,88.5,88.3,88.2
+533,Male,Fort Hood,185.3,89,88.9,88.8
+4092,Male,Fort Hood,198.1,87.2,86.9,86.9
+1381,Male,Fort Hood,175.3,85.2,84.9,84.9
+2752,Male,Fort Hood,193,120.1 kg,120.2,120.2
+5592,Male,Fort Hood,167.6,76.8,76.7,76.6
+846,Male,Fort Hood,178,100.3,100.5,100.5
+5191,Male,Fort Hood,188.1,105.4,105.3,105.3
+5504,Male,Fort Hood,177.9,87.7,87.4,87.4
+6074,Male,Fort Hood,167.5,75.3,75.2,75.3
+6123,Male,Fort Hood,167.6,86.4,86.3,86.2
+3486,Male,Fort Hood,183,96.1 kg,95.9,95.8
+3565,Male,Fort Hood,190.5,72,72,71.9
+570,Male,Fort Hood,185.2,77.4,77.6,77.6
+5391,Male,Fort Hood,172.7,75.2,75.2,75.1
+1926,Male,Fort Hood,177.6,74.5,74.1,74.2
+5666,Male,Fort Hood,170.1,179.7 lb,81.9,NA
+1813,Male,Fort Hood,177.9,87.6 kg,87.9,88
+2833,Female,Fort Hood,165.2,71.6,72.1,72.2
+5694,Male,Fort Hood,167.7,69.5,69.5,69.5
+6001,Male,Fort Hood,177.8,82.4 kg,82.8,82.7
+5912,Male,Fort Hood,195.6,221.6 lb,100.6,100.5
+5288,Male,Fort Hood,180.2,86.9,86.8,86.7
+1858,Male,Fort Hood,162.8,72.9,72.7,72.7
+5161,Male,Fort Hood,185.4,NA,72.8,72.9
+4729,Male,Fort Hood,182.8,72.4,72.6,72.4
+281,Female,Fort Hood,162.7,71.3,71.5,71.4
+4063,Female,Fort Hood,172.8,65.2 kg,65.4,65.4
+6041,Female,Fort Hood,160.2,47.5,47.6,47.6
+724,Female,Fort Hood,170.1,69.7,69.8,69.7
+2053,Female,Fort Hood,203.2,119.5,119.5,119.4
+1354,Female,Fort Hood,172.7,88.6,89,89.1
+492,Female,Fort Hood,162.6,75.7,75.6,75.7
+3255,Female,Fort Hood,157.5,67.4,67.3,67.1
+6083,Female,Fort Hood,154.9,59.7,NA,59.8
+5199,Female,Fort Hood,165.2,58.2,58.1,58.1
+1949,Female,Fort Hood,159.9,69.1,68.9,68.9
+514,Female,Fort Hood,165.1,71.7 kg,71.5,71.4
+2117,Male,Fort Hood,183,127.2,127.3,127.5
+4666,Female,Fort Hood,162.7,60.4 kg,60.8,60.7
+1253,Female,Fort Hood,177.7,68.6,68.9,NA
+2016,Female,Fort Hood,167.5,85.6,85.4,85.3
+5416,Male,Fort Hood,185.5,96.3 kg,96.4,96.3
+2189,Male,Fort Hood,167.7,101.3,101.8,101.7
+2841,Male,Fort Hood,175.3,86.6,86.9,86.9
+132,Male,Fort Hood,172.6,84.7,NA,84.8
+1659,Male,Fort Hood,180.5,162 lb,73.6,73.5
+2802,Male,Fort Hood,172.8,73.4,73.6,73.5
+2181,Male,Fort Hood,177.7,76.8,77,77
+4846,Male,Fort Hood,170.2,85.1 kg,85.1,84.9
+1421,Male,Fort Hood,159.8,56.6 kg,56.4,56.5
+5040,Male,Fort Hood,165.2,91,91,90.9
+1839,Male,Fort Hood,172.9,90,89.7,89.6
+5724,Male,Fort Hood,167.4,102.4,102.6,102.5
+5488,Male,Fort Hood,167.5,65.6 kg,65.6,65.4
+3505,Male,Fort Hood,187.9,96.8,96.4,96.2
+1838,Male,Fort Hood,NA,113.3,113.1,NA
+1766,Male,Fort Hood,167.4,89.6 kg,89.6,89.6
+5259,Male,Fort Hood,183,76.3 kg,76.5,76.4
+1544,Male,Fort Hood,190.3,123.8,123.9,124.1
+320,Male,Fort Hood,180.3,87.2,86.9,87
+4948,Male,Fort Hood,188.1,69,68.8,68.9
+4211,Male,Fort Hood,175.3,74.2,74.8,74.9
+3525,Male,Fort Hood,170.3,75.2,75.4,75.4
+1474,Male,Fort Hood,175.3,69.7,69.7,69.7
+6058,Male,Fort Hood,185.3,102.6,102.6,102.7
+4017,Male,Fort Doughnut,175.4,98.5,99.5,NA
+2243,Male,Fort Doughnut,188,115.1,115.9,116.4
+1625,Male,Fort Doughnut,183.1,101.4,102.3,102.8
+3389,Male,Fort Doughnut,180.3,116.6,117.5,118.2
+3116,Male,Fort Doughnut,190.6,124,124.8,125.3
+2385,Male,Fort Doughnut,188,99.5,100.5,NA
+5049,Male,Fort Doughnut,185.1,110.8,111.5,112
+5553,Male,Fort Doughnut,182.8,107.1,107.9,108.5
+5268,Male,Fort Doughnut,180.3,106.9,107.6,107.9
+3824,Male,Fort Doughnut,193,124.2,125.2,125.7
+1358,Male,Fort Doughnut,182.7,109.5,110.5,111.1
+2814,Male,Fort Doughnut,183,113.9,114.9,115.4
+2612,Male,Fort Doughnut,175.2,97.3,NA,NA
+1631,Male,Fort Doughnut,177.7,92.3,93.8,94.4
+272,Male,Fort Doughnut,177.6,101.8 kg,102.6,103.1
+1220,Male,Fort Doughnut,180.2,106.5 kg,107.6,108.3
+1060,Male,Fort Doughnut,175.3,226.2 lb,103.6,104.2
+1992,Male,Fort Doughnut,180.4,98.1 kg,NA,99.7
+1671,Male,Fort Doughnut,170,88.4,89.1,89.6
+6184,Male,Fort Doughnut,177.7,125.5 kg,126.5,127
+6203,Male,Fort Doughnut,193.1,109.8,110.9,111.2
+3057,Male,Fort Doughnut,180.3,127.5,128.2,128.7
+103,Male,Fort Doughnut,188.2,97.3,98.2,NA
+766,Male,Fort Doughnut,172.8,89.2,90.2,90.5
+3764,Male,Fort Doughnut,190.6,127.7,128.9,129.3
+5906,Male,Fort Doughnut,167.6,110.8 kg,111.7,112.1
+754,Male,Fort Doughnut,182.9,108.1,109.1,109.5
+2311,Male,Fort Doughnut,180.2,111.5 kg,112.5,113.1
+5956,Male,Fort Doughnut,180.4,114,114.9,115.5
+5896,Male,Fort Doughnut,180.4,96.7,97.9,NA
+5132,Male,Fort Doughnut,183,117.9,119.2,119.7
+4926,Male,Fort Doughnut,185.3,98,99,NA
+969,Male,Fort Doughnut,175.1,90.6,91.7,92.2
+4818,Male,Fort Doughnut,167.6,87.2,88.2,88.9
+1364,Male,Fort Doughnut,175.3,95.8,97,97.5
+1151,Male,Fort Doughnut,177.9,111.3,112.4,112.9
+1140,Male,Fort Doughnut,182.8,101.5,102.5,103
+4491,Male,Fort Doughnut,182.9,236.3 lb,108.4,108.8
+5459,Male,Fort Doughnut,177.8,98.7 kg,99.8,100.3
+440,Male,Fort Doughnut,175.4,108.3 kg,109.3,109.7
+1939,Male,Fort Doughnut,172.7,107.1,108,108.6
+545,Male,Fort Doughnut,188,95.3,96.3,96.6
+639,Male,Fort Doughnut,177.7,116.4,117.3,117.7
+2303,Male,Fort Doughnut,192.9,126 kg,127.1,127.7
+1051,Male,Fort Doughnut,175.3,92.2,93.3,93.9
+578,Female,Fort Doughnut,167.8,72.5,73.6,74.2
+5764,Female,Fort Doughnut,178,84.8 kg,86,86.6
+5628,Female,Fort Doughnut,160,83.5,84.4,84.9
+1367,Female,Fort Doughnut,157.4,66.2,67.2,67.8
+4517,Female,Fort Doughnut,157.3,71.3,72.4,73
+2279,Female,Fort Doughnut,172.8,80.3,81.1,81.5
+1535,Female,Fort Doughnut,159.9,81.1,82.3,82.8
+4173,Female,Fort Doughnut,167.8,79.8,81.3,81.8
+438,Female,Fort Doughnut,170.1,70.5,71.4,71.9
+1551,Female,Fort Doughnut,160,75.5 kg,76.7,77.2
+4146,Female,Fort Doughnut,170.6,86.6,87.8,88.4
+3519,Female,Fort Doughnut,177.7,81 kg,82,82.3
+5432,Female,Fort Doughnut,162.6,82.2,83.1,83.6
+468,Female,Fort Doughnut,167.5,69.8 kg,70.6,71
+307,Female,Fort Doughnut,170.2,153.7 lb,70.8,NA
+3368,Female,Fort Doughnut,157.4,NA,NA,NA
+1273,Female,Fort Doughnut,167.6,95.1,95.9,96.3
+1331,Female,Fort Doughnut,154.9,58.5,59.2,59.9
+2834,Female,Fort Doughnut,170.1,71.8,72.6,NA
+5413,Female,Fort Doughnut,170.2,79.2,80.4,81
+645,Female,Fort Doughnut,165.2,NA,70.6,NA
+4683,Female,Fort Doughnut,167.8,92.5 kg,NA,94.2
+3325,Female,Fort Doughnut,157.4,69.2,70.3,70.9
+6188,Female,Fort Doughnut,160,70.4 kg,70.9,71.6
+4214,Female,Fort Doughnut,162.7,69.1,NA,70.9
+5138,Female,Fort Doughnut,165,73.7,NA,75.2
+3091,Female,Fort Doughnut,167.3,78.8,79.4,79.9
+5130,Female,Fort Doughnut,165,72.3,73.1,NA
+5320,Female,Fort Doughnut,170.1,74.8,75.7,76.3
+371,Female,Fort Doughnut,162.6,152.1 lb,69.8,70.5
+780,Female,Fort Doughnut,170.2,189.4 lb,86.8,87.3
+5513,Female,Fort Doughnut,182.9,75.6,76.6,77
+2959,Female,Fort Doughnut,170.2,75.4,76.6,77.2
+1947,Female,Fort Doughnut,162.6,72.4,NA,73.8
+5153,Female,Fort Doughnut,167.6,82.5,83.4,84
+2115,Female,Fort Doughnut,167.7,81 kg,82.1,82.7
+4891,Female,Fort Doughnut,162.5,75 kg,76.2,76.6
+595,Female,Fort Doughnut,167.6,69.5,70.5,71
+2554,Female,Fort Doughnut,165,82.4,83.5,84
+4610,Female,Fort Doughnut,160,73.3,74.3,NA
+2398,Female,Fort Doughnut,154.9,73.6 kg,74.6,75.1
+2130,Female,Fort Doughnut,154.7,64.8 kg,65.6,66.1
+1666,Female,Fort Doughnut,167.6,81.3 kg,82.1,82.6
+4623,Female,Fort Doughnut,165.2,64.5,65.7,66.3
+5972,Female,Fort Doughnut,155,65.4,66.5,67
+4444,Female,Camp Arnold,162.6,75.2,74.7,74.7
+431,Female,Camp Arnold,172.6,83.3,82.9,82.7
+2764,Female,Camp Arnold,175.4,103.7,103.3,103.1
+6062,Female,Camp Arnold,157.5,66.6,66.2,65.9
+6000,Female,Camp Arnold,167.6,80,79.7,79.5
+2498,Female,Camp Arnold,170.4,NA,98.9,98.8
+4334,Female,Camp Arnold,157.4,73.1,72.8,72.9
+5847,Female,Camp Arnold,172.7,84.5,84.2,84.1
+2545,Female,Camp Arnold,172.8,84,83.7,83.4
+2466,Female,Camp Arnold,167.7,75.7,NA,75.2
+1547,Female,Camp Arnold,165.1,79.1,78.3,78.1
+4915,Female,Camp Arnold,170.2,87 kg,86,85.8
+2388,Female,Camp Arnold,162.6,76.3,75.7,75.6
+6097,Female,Camp Arnold,162.7,69.9 kg,69.1,69.1
+5139,Female,Camp Arnold,162.6,64.2,63.6,63.5
+4016,Female,Camp Arnold,162.7,89.8,89.3,89.2
+5959,Female,Camp Arnold,152.4,80.3,79.9,79.7
+4121,Female,Camp Arnold,167.5,76.2,76.1,76.1
+1189,Female,Camp Arnold,162.7,96.3,96.1,95.9
+3778,Female,Camp Arnold,162.4,66.8,66.5,66.3
+4415,Female,Camp Arnold,170.2,91.9,91.5,91.4
+2976,Female,Camp Arnold,162.6,74.4 kg,74,73.8
+4494,Female,Camp Arnold,157.5,75.7,75.2,75.1
+1094,Female,Camp Arnold,167.5,89.2,88.4,88.4
+4447,Female,Camp Arnold,162.6,77.1,NA,76.9
+5344,Male,Camp Arnold,178,82.4,82.1,82
+1291,Male,Camp Arnold,182.8,244.1 lb,110.5,110.3
+3848,Male,Camp Arnold,185.2,122.3,121.7,121.7
+1080,Male,Camp Arnold,180.4,119.6,119.2,119.1
+2048,Male,Camp Arnold,177.7,103.1 kg,102.7,102.7
+5033,Male,Camp Arnold,175.2,107.7,106.9,106.8
+4532,Male,Camp Arnold,180.2,87.5,87,87
+1711,Male,Camp Arnold,182.9,103.6,103.1,102.9
+1327,Male,Camp Arnold,177.9,85.2,84.8,84.6
+2915,Male,Camp Arnold,170.1,107.2,106.6,106.5
+88,Male,Camp Arnold,182.8,107,106.8,106.6
+2425,Male,Camp Arnold,185.5,130 kg,129.8,129.8
+5621,Male,Camp Arnold,172.7,78,77.6,77.5
+3701,Male,Camp Arnold,182.9,123.4,122.8,122.6
+6066,Male,Camp Arnold,185.3,244.7 lb,110.3,110.3
+1029,Male,Camp Arnold,175.4,190.5 lb,85.6,85.5
+2907,Male,Camp Arnold,175.2,110.1,109.4,109.4
+6139,Male,Camp Arnold,185.5,113.7,112.8,112.7
+3653,Male,Camp Arnold,185.5,93.9,93.5,93.4
+3069,Male,Camp Arnold,172.7,NA,NA,NA
+4421,Male,Camp Arnold,177.9,90.1,89.3,89.1
+3896,Male,Camp Arnold,177.9,123.4,123.1,123.1
+2523,Male,Camp Arnold,175.4,94.7 kg,94.2,94.2
+1573,Male,Camp Arnold,170.4,92.3,92,91.9
+3267,Male,Camp Arnold,177.6,128.2,NA,127.7
